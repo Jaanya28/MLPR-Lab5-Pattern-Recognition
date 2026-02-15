@@ -17,12 +17,10 @@ Lighting and color variations influence clustering results. HSV color space impr
 ## Key Learnings
 This lab demonstrates the complete pattern recognition pipeline: detection, feature extraction, clustering, classification, and visualization.
 
-## Sample Output
-(Add screenshots of your plots here)
-
 ## Conclusion
 Distance-based clustering provides an effective approach for grouping visually similar data. Feature selection plays a critical role in improving classification performance.
 
+## OUTPUT
 <img width="1268" height="633" alt="Screenshot 2026-02-15 at 16 33 57" src="https://github.com/user-attachments/assets/3a9f54e8-3f6f-4509-9435-3edc26002b8e" />
 <img width="1039" height="572" alt="Screenshot 2026-02-15 at 16 34 15" src="https://github.com/user-attachments/assets/1cb7c836-7bd0-44ff-912a-07cd270427b7" />
 <img width="1039" height="572" alt="Screenshot 2026-02-15 at 16 34 30" src="https://github.com/user-attachments/assets/7b7c8a16-138d-46ab-944a-6dc651a13d3b" />
